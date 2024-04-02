@@ -6,6 +6,9 @@ Examples of real-time operating systems are airline traffic control systems, Com
 
 ### Types of Real-Time Systems
 
+<img width="626" alt="09" src="https://github.com/Rajendran2201/operating-systems/assets/137254223/c01d245a-66b3-4099-b9d9-78f37c94da87">
+
+
 - Hard Real-Time Operating System: These operating systems guarantee that critical tasks are completed within a range of time.
     - For example, a robot is hired to weld a car body. If the robot welds too early or too late, the car cannot be sold, so it is a hard real-time system that requires complete car welding by the robot hardly on time., scientific experiments, medical imaging systems, industrial control systems, weapon systems, robots, air traffic control systems, etc.
 - Soft real-time operating system: This operating system provides some relaxation in the time limit.
