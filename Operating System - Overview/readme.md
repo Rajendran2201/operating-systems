@@ -56,6 +56,20 @@ Examples:
 9. **I/O System Management:** Managing input and output operations between the computer and its peripherals.
 10. **Networking:** Enabling communication and resource sharing over networks.
 
+## Components of OS
+
+The Operating Systems has two parts namely 
+
+- **Kernel**
+    - It is an active part of OS
+    - It is the part of OS running at all the time
+    - Kernel is a program which can interact with the hardware
+    - Examples : Device drivers, DLL files, System files
+- **Shell**
+    - It is also called as Command Interpreter
+    - It is a set of programs which interacts with the application programs.
+    - It is responsible for the execution of instructions given to the OS
+
 # Evolution of OS
 
 The OS has been evolving ever since it was invented. The evolution of OS has been categorized into six types:
