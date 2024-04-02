@@ -291,4 +291,4 @@ Micro-kernel  structure designs the operating system by removing all non-essent
 
 ## Operating System Services
 
-[Operating System Services](https://www.notion.so/Operating-System-Services-a4af738264fe45d28e9709d85c1438a4?pvs=21)
+[Operating System Services](https://github.com/Rajendran2201/operating-systems/blob/main/02-Components%20of%20OS/operating%20system%20services.md)
