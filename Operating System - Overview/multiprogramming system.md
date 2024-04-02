@@ -32,7 +32,13 @@ Multiprogramming is broadly classified into two types namely 
 - Multitasking is a method that is divided into two types:
     - *Preemptive Scheduling algorithm:* In the preemptive scheduling algorithm if more than one process wants to enter into the critical section then it will be allowed and it can enter into the critical section without any interruption only if no other progress is in the critical section.
     - *Non-Preemptive scheduling algorithm:* If a process gets a critical section then it will not leave the critical section until or unless it works gets done.
-    
+
+
+
+![07](https://github.com/Rajendran2201/operating-systems/assets/137254223/93e96997-7393-4d04-98ed-52b87940f496)
+
+
+
     <aside>
     
     The main principle of multiprogramming system is to maximise the processor usage.
