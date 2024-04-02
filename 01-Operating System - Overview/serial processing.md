@@ -19,5 +19,5 @@ The programs were submitted to the machine one after the other. This method is c
 
 The two main problems in serial processing systems were as follows:
 
-- **Scheduling:** The process of scheduling the jobs was not automated. The user had to schedule which program to run first.
+- **Scheduling:** The process of scheduling the jobs was not automated. The user had to schedule the sequence of processes
 - **Setup Time:** Serial processing systems took time to set up the punch cards into the computing machine.
