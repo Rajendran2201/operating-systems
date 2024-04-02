@@ -39,8 +39,8 @@ Multiprogramming is broadly classified into two types namely 
 
 
 
-    <aside>
+ <aside>
     
-    The main principle of multiprogramming system is to maximise the processor usage.
+The main principle of multiprogramming system is to maximise the processor usage.
     
-    </aside>
+</aside>
